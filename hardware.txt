@@ -1,0 +1,12 @@
+List of hardware devices 
+1 CPU
+maouse
+mouse
+keyboard
+SSD
+RAM
+Motherboard
+Hard Disk
+monitor
+printer
+power supply
